@@ -1,0 +1,5 @@
+#Script: auto_report.ps1
+#Tac gia: HOAN_THIEN
+#Ngay tao: HOAN_THIEN
+
+Write-host "Dangloc log..."
